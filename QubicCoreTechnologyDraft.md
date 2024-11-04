@@ -167,36 +167,44 @@ Below you find an unsroted list of open source code from products/software provi
 
 ## FAQ
 https://discord.com/channels/768887649540243497/1301317725444116490/1303038768034611251
-Q: Not correct Logo and gramar errors
-A: With time the look and feel may be optimized. For my personal view the content seems to be more important atm.
-
+> **Q:** Not correct Logo and gramar errors
+> 
+> **A:** With time the look and feel may be optimized. For my personal view the content seems to be more important atm.
+***
 https://discord.com/channels/768887649540243497/1301317725444116490/1303039585747730503
-Q: 98k cost could be explained more in detail and also who are the 13 FTE, whats their positions, tasks and work time (hours)
-A: Currently we have in core technology 11 active members (incl. cfb and me). they all work differente percentage. the goal is to extend the team to be able to deliver what is needed for further grow. i'm not sure if it is a must to say who earns how much for what work. i can tell you that cfb and me do not get anything. members are: @phil, @luk, @dkat, @linckode, @raika sternensucher, @fnordspace, @cyber-pc, @kavatak
+> **Q:** 98k cost could be explained more in detail and also who are the 13 FTE, whats their positions, tasks and work time (hours)
+> 
+> **A:** Currently we have in core technology 11 active members (incl. cfb and me). they all work differente percentage. the goal is to extend the team to be able to deliver what is needed for further grow. i'm not sure if it is a must to say who earns how much for what work. i can tell you that cfb and me do not get anything. members are: @phil, @luk, @dkat, @linckode, @raika sternensucher, @fnordspace, @cyber-pc, @kavatak
 if the proposal is approved, we will search for testing & operators and dev's who can join the integration team. current organization is that @luk, @dkat, @phil (lead dev), @cfb (lead protocol), @joetom form the planning and priorization team. everybody of the team has it's own role and responsibility. at least i think that there is no hierarchie, we can exchange each other on a technical level and find a rational solution when we do not agree on the first glance.
-
+***
 https://discord.com/channels/768887649540243497/1301317725444116490/1303039839029039125
-Q: I, personally would like to see more milestones, OKRs, deadlines, timelines, concrete comittments to what will be worked on by whom and when
-A: let's work on that together, as the complete planning and priorization is publicly online, and we have a scheduled 1 month planing period, we are happy to receive inputs on what is more important, to that this can be considered on the next planing meeting. you cut put the milestones then on a nice roadmap. (i would not go into that much micro management)
+> **Q:** I, personally would like to see more milestones, OKRs, deadlines, timelines, concrete comittments to what will be worked on by whom and when
+> 
+> **A:** let's work on that together, as the complete planning and priorization is publicly online, and we have a scheduled 1 month planing period, we are happy to receive inputs on what is more important, to that this can be considered on the next planing meeting. you cut put the milestones then on a nice roadmap. (i would not go into that much micro management)
 If you visit https://github.com/orgs/qubic/projects/1/views/7 and scroll a bit down, you can alread see who is working on what atm.
-
+***
 https://discord.com/channels/768887649540243497/1301317725444116490/1303049381141807166
-Q: Tech % should also include grant program and incubator program.
-A: This is a very interesting view. i think it make sense to separate grant, outsourced development and core development. this let's each of them focus on their main topic.
-
+> **Q:** Tech % should also include grant program and incubator program.
+>
+> **A:** This is a very interesting view. i think it make sense to separate grant, outsourced development and core development. this let's each of them focus on their main topic.
+***
 https://discord.com/channels/768887649540243497/1301317725444116490/1303059283843223612
-Q: What mechanisms will be placed to ensure the additional resources for integration and core teams are used effectively
-A: We have currently not enough resources to fulfil the demands on the integration layer (rpc/api, archive, event pub/sub); i think @luk can say a bit more to this. but as we identified this two teams as crucial for the further qubic growth this needs to be able to perform. i hope the effecitveness can be measured by the output and how easy the new ecosystem builders can interact/onboard with qubic.
-
-Q: How will be managed the communication between Qubic Core Tech and community projects to avoid duplication of efforts (this is very important for me)
-A: We have already established a semi-open discord tech server where any interested developer can join. within this tech server we have channels like `integration-ama` or `core-ama` where every technical person can ask questions directly to the dev's.
+> **Q:** What mechanisms will be placed to ensure the additional resources for integration and core teams are used effectively
+> 
+> **A:** We have currently not enough resources to fulfil the demands on the integration layer (rpc/api, archive, event pub/sub); i think @luk can say a bit more to this. but as we identified this two teams as crucial for the further qubic growth this needs to be able to perform. i hope the effecitveness can be measured by the output and how easy the new ecosystem builders can interact/onboard with qubic.
+> ***
+> **Q:** How will be managed the communication between Qubic Core Tech and community projects to avoid duplication of efforts (this is very important for me)
+> 
+> **A:** We have already established a semi-open discord tech server where any interested developer can join. within this tech server we have channels like `integration-ama` or `core-ama` where every technical person can ask questions directly to the dev's.
 due to the clear [assigment](#what-are-the-assignments-of-qubic-core-technology) what qubic core tech should build on it should not come to duplication imho. what we maybe need to learn: better communicate what our dev's are doing
-
-Q: What level of detail in transparency is expected to be presented to computors to justify continued funding? (i mention because i like steco biweekly reports)
-A: i assume you see the same. a bi-weekly interval seems good to do the coms. Depending on how e.g. the diecord organisation looks like in the next month i could imagine, that we have e.g. an "Operations Workgroup" which will collect the information also from other workgroups or ecosystem builders and package this together for a common bi-weekly update. (just an idea...)
-
-Q: What steps will be taken to ensure products built by third parties align with the quality standard of Qubic Core Tech (this is very important for me too, in fact i think if this is properly implemented would be huge for qubic)
-A: When it comes to SC's then every SC goes through a testing and review phase lead by the core dev's. this ensures basic quality check. with the new [contract verification tool](https://github.com/orgs/qubic/projects/1/views/7?pane=issue&itemId=85057661) which is on high prio to be developed we will have another instrument to ensure core code quality. When it comes to quality of the ecosystem products, we cannot have direct influence. but, @dkat is in the grants committee to exactly ensure also quality their. this means for projects/products financed by grants or ecosystem fund, i see a good way when core and/or integration dev's can be part of those committees.
+> ***
+> **Q:** What level of detail in transparency is expected to be presented to computors to justify continued funding? (i mention because i like steco biweekly reports)
+> 
+> **A:** i assume you see the same. a bi-weekly interval seems good to do the coms. Depending on how e.g. the diecord organisation looks like in the next month i could imagine, that we have e.g. an "Operations Workgroup" which will collect the information also from other workgroups or ecosystem builders and package this together for a common bi-weekly update. (just an idea...)
+> ***
+> **Q:** What steps will be taken to ensure products built by third parties align with the quality standard of Qubic Core Tech (this is very important for me too, in fact i think if this is properly implemented would be huge for qubic)
+> 
+> **A:** When it comes to SC's then every SC goes through a testing and review phase lead by the core dev's. this ensures basic quality check. with the new [contract verification tool](https://github.com/orgs/qubic/projects/1/views/7?pane=issue&itemId=85057661) which is on high prio to be developed we will have another instrument to ensure core code quality. When it comes to quality of the ecosystem products, we cannot have direct influence. but, @dkat is in the grants committee to exactly ensure also quality their. this means for projects/products financed by grants or ecosystem fund, i see a good way when core and/or integration dev's can be part of those committees.
 
 
 
