@@ -30,7 +30,7 @@ The Qubic Core Technology team will
 - stay neutral
 - open source and open mind
 - active support for different initatives from the community
-- form the first independent workgroup of many that will follow
+- form the first independent workgroup of many that can follow
 
 ### Financed via CCF requests
 I estimate the need of **~100'000$/month**:  
