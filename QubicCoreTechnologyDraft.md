@@ -135,7 +135,7 @@ I have the promise of the private donators, that the current team is financed un
 The proposal to the Computors will be to request funds from CCF. If we stick to the budget of ~100k$/month. I would request **300k$** in Qubics to secure the Qubic Core Technology operations for the next three months. This request will be repeated then every three months. This Budget is used to pay for infrastructure (e.g. servers) and people. The calculated amount of Qubics is done by the current price. If the price rises, the period using the same budget can be extended, if the price falls, it may mean, that we need to re-request from CCF.
 
 ### Appendix: Open Source Software
-Below you find an unsroted list open source code of products/software provided by the the current Qubic Technology Team (including cfb and former contributors):
+Below you find an unsroted list of open source code from products/software provided by the the current Qubic Technology Team (including cfb and former contributors):
 
 - https://github.com/qubic/wallet-app
 - https://github.com/qubic/core
