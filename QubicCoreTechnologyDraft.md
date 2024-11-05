@@ -205,7 +205,46 @@ due to the clear [assigment](#what-are-the-assignments-of-qubic-core-technology)
 > **Q:** What steps will be taken to ensure products built by third parties align with the quality standard of Qubic Core Tech (this is very important for me too, in fact i think if this is properly implemented would be huge for qubic)
 > 
 > **A:** When it comes to SC's then every SC goes through a testing and review phase lead by the core dev's. this ensures basic quality check. with the new [contract verification tool](https://github.com/orgs/qubic/projects/1/views/7?pane=issue&itemId=85057661) which is on high prio to be developed we will have another instrument to ensure core code quality. When it comes to quality of the ecosystem products, we cannot have direct influence. but, @dkat is in the grants committee to exactly ensure also quality their. this means for projects/products financed by grants or ecosystem fund, i see a good way when core and/or integration dev's can be part of those committees.
-
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431599819329646
+> **Q:** Considering Core Tech is the absolute backbone of the Qubic, what is the reason QTC shouldn't be under Quorum oversight at all times? Putting this outside of Quorum could lead to a single point of failure. Andre Cronje caused Phantom to almost fall over as he was the lead developer leaving. Now that you left SteCo, Quorum does not have the opportunity to hold you or the team accountable besides stopping funding. How do you see this work?
+> 
+> **A:** I cannot follow your argumentation. If the Computors are not happy with what is delivered and will not extend the budget i assume that they will express this. Either in chat or by not accepting code changes.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431635345084467
+> **Q:** How do you intent to hold your team members accountable and how do you intent to grow/develop them at Qubic over a longer period of time?
+> 
+> **A:** I'm not the type of leader to hold "my team members accountable". I prefer to lead by example (and lead by strengths) and let all participate in decicions. e.g. cfb mostly decides on protocol topics, phil as lead def mostly decides about architecture, dkat as core head decides what is gonna developed next, @luk as head of integration decides how to build the archive server and so on. this way, every individual can work where he/she has the strengths.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431717952159824
+> **Q:** How does Core tech ensure communication with other workgroups and in specifically with marketing and ecosystem?  The risk of isolation increases in a decentralized team because it assumes good and proactive behaviour from all team members.
+>
+> A: We had a similar Question: https://discord.com/channels/768887649540243497/1301317725444116490/1303059283843223612, the answer there was: We have already established a semi-open discord tech server where any interested developer can join. within this tech server we have channels like `integration-ama` or `core-ama` where every technical person can ask questions directly to the dev's. This tech server also already have the `marketing-tech` channel where marketing can ask tech questions directly to the techies. Additionally i see us in an open discord, everybody can see who is involed in what, asking people is the core of getting information. You can access the milestone/task/roadmap board to see who works on what, how are the priorities and you will get/create a be weekly update. 
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431740873904139
+> **Q:** How will this proposal increase the reaction time of the core team?
+> 
+> **A:** Needs further clarification.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431782229872710
+> **Q:** How do you intend to deliver tech with speed on execution? Decentralization has a risk to slow things down. How do you make sure we execute fast enough to stay technically competitive.
+> 
+> **A:** In my opinion decentralization has nothing to do with speed. With this proposal i think it is the contrary, i try to set focus. QCT can focus on core development. The Project/Product teams can focus on their products.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431816669167677
+> **Q:** The proposal talks about product. How do you intent to build the best infrastructure as a product? How do you intend to stay close to what users want and what investors want? Do you intent to do a/b testing and user research?
+> 
+> **A:** In an open source project potentially everyone can participate. I see the QCT as the creators of the foundation. What you ask for is more on a higher layer. The Wallet, Explorer, Liquidity Pools, QX Builders needs to focus on Users. Qubic's core focus imho is on security, stability, performance. Those three topics normally are in conflict with users needs. What i would love to see, is that the interface of Qubic is well documented. And as described it is important that e.g. ecosystem builders can have direct access to core dev's, they can ask questions and we have a dedicated testing team when it e.g. comes to help for SC testing. Doing A/B testing in a blockchain is almost impossible, we can only have one truth. What is also promoted by cfb is that we are open for testing new things.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303431840245481473
+> **Q:** Will QTC create their own legal entity or be part of the association? Where will employees be employed so that we can offer them a growth trajectory
+> 
+> **A:** A growth trajectory is given by design. A junior that starts will gain experience and can grow to a senior. A senior can grow to an architect. Normally there is also a natural fluctuation which helps. Current employees are employeed with different companies, are contractors, do not receive any salary or receive qubic.
+***
+https://discord.com/channels/768887649540243497/1301317725444116490/1303432917954986105
+> **Q:** There's power in presenting and aligning an unified roadmap towards the community. How do you intend to work together with SteCo and other groups to deliver a cohesive strategy for core Qubic? The community might not care about different work groups and might just want to see an unified roadmap that is primed to be achieved. There's a risk with decentralized models that strategies are misaligned and lack of communication can hinder progression.
+>
+> **A:** My wish setup would be if we have a dedicated workgroup which is in charge of creating the roadmap. This workgroup goes to ask QCT, Marketing, Qearn and any other known ecosystem builder for their planed activities. In a dream world there is a tool provided by this workgroup where all Qubic contributors can put their initiatives and milestones in. The tool will then magically create the roadmap in a nice way.
 
 
 
