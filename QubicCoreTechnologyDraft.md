@@ -1,6 +1,6 @@
 # Qubic Core Technology (QCT)
 
-it seems that we currently have the proposal season, i hope we can discuss together another proposal.
+Tt seems that we currently have the proposal season, i hope we can discuss together another proposal.
 in the past 2.5 years, Qubic development was mainly made by volunteers, enthusiasts and of course cfb.
 
 > [!Note]
@@ -44,24 +44,25 @@ I estimate the need of **~100'000$/month**:
 **Content**
 1. [The History](#the-history)
 2. [New Organizational Chart](#new-organizational-chart)
-3. [What are the assignments of Qubic Core Technology](#what-are-the-assignments-of-qubic-core-technology)
-4. [What changes in the structure?](#what-changes-in-the-structure)
-5. [Why should **Client** be organized as products?](#why-should-client-be-organized-as-products)
-6. [How will the progress be tracked?](#how-will-the-progress-be-tracked)
-7. [What is the timeline?](#what-is-the-timeline)
-8. [What will be the proposal to the Computors?](#what-will-be-the-proposal-to-the-computors)
-9. [Appendix: Open Source Software](#appendix-open-source-software)
-10. [FAQ](#faq)
+3. [The People behind](#the-people-behind)
+4. [What are the assignments of Qubic Core Technology](#what-are-the-assignments-of-qubic-core-technology)
+5. [What changes in the structure?](#what-changes-in-the-structure)
+6. [Why should **Client** be organized as products?](#why-should-client-be-organized-as-products)
+7. [How will the progress be tracked?](#how-will-the-progress-be-tracked)
+8. [What is the timeline?](#what-is-the-timeline)
+9. [What will be the proposal to the Computors?](#what-will-be-the-proposal-to-the-computors)
+10. [Appendix: Open Source Software](#appendix-open-source-software)
+11. [FAQ](#faq)
 
 ### The History
-during the first steco period (oct23-apr24) i tried to organize a Qubic tech department which is able to deliver the Qubic core technology including the needed tools to work with Qubic.
+During the first steco period (oct23-apr24) i tried to organize a Qubic tech department which is able to deliver the Qubic core technology including the needed tools to work with Qubic.
 this includes the Qubic core (https://github.com/Qubic/core) but also tools around needed to grow Qubic (CLI, wallet, explorer, archive, RPC/API and some libraries). the tech team was also heavily involved in integrations for exchanges or wallets.
 
-to achieve this, i created the following organization structure:
+To achieve this, i created the following organization structure:
 
 ![Qubic dev - old-org](https://github.com/user-attachments/assets/c9950c5d-8a07-4895-9814-827e98585cb7)
 
-this organisation was to bootrap all the needed tech to the users. while all those software was needed to ramp up Qubic and to enable the community to interact with Qubic easily.
+This organisation was to bootrap all the needed tech to the users. while all those software was needed to ramp up Qubic and to enable the community to interact with Qubic easily.
 it was a classical organization how one would know it from companies. at first glance it looks good. for me it turned out, that due to different focus in the teams (core, integration, client) the potential output could be more productive.
 
 - core: build Qubic protocol and the base layer of Qubic (very low level coding in c++; focus on security, performance and optimized code)
@@ -74,11 +75,18 @@ it was a classical organization how one would know it from companies. at first g
 as stated in the beginning, the most people in this organization has been working first only in their free time (volunteers), with some i could find an agreement to work more for Qubic, others we could recruit directly. The current monthly tech budget is **~111'000$/month** (includes salaries, and operating costs). This budget is currently paid partially from CCF (12bln/month) and donators. In the time being, the demand we see from the community and potential investors has grown and i personally want to deliver the best for Qubic. i think with the current organization this will be hard.
 
 ### New Organizational Chart
-we have also seen that Qubic has matured in the last months. the basic software is working and we see new ecosystem builders joining. it is now time to also make the next step for the tech organization.
+We have also seen that Qubic has matured in the last months. the basic software is working and we see new ecosystem builders joining. it is now time to also make the next step for the tech organization.
 
-therefore i suggest to change the current structure to the new one:
+Therefore i suggest to change the current structure to the new one:
 
 ![Qubic dev - new-org](https://github.com/user-attachments/assets/5d7fa2f7-db35-4cd7-a95a-f046fa5b6cba)
+
+### The People behind
+With the new organization we will fill gaps in the current hiring.
+While the core dev's are full in charge, we will need to find either good dev's for integration or finding a partner to work with.
+The Testing & Operating team needs to be extended with Testers & Operators, but also with a technical documentalist and someone who can do proper PM and reporting.
+
+![Qubic dev org - organigram](https://github.com/user-attachments/assets/cb182d6c-09d1-49a3-a844-f05e53714e2d)
 
 ### What are the assignments of Qubic Core Technology
 Based on the Qubic Architecture
